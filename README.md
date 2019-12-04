@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # laravel-admin [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A [Laravel](http://laravel.com/) 5.2.x, [Bootstrap](http://getbootstrap.com) 3.5.x, and [AdminLTE](https://almsaeedstudio.com/themes/AdminLTE/documentation/index.html) 2.3.x. project.
@@ -650,3 +651,6 @@ Note: Replace examples URI used in Vargrant/Homestead configuration file and use
 ## Enjoy
 
 ###### ~ **Jeremy**
+=======
+# Laravel-admin
+>>>>>>> ed76820cdfbfcb1a66689cef2316b3403ddc013c
